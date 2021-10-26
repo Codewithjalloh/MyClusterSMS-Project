@@ -1,0 +1,9 @@
+.navbar .navbar-brand {
+    color: rgba(167, 167, 255, 0.85);
+    font-size: 1rem;
+}
+
+.jumbotron {
+    background-image: url(../img/final_header.png);
+    background-size: cover;
+}
